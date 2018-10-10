@@ -1,0 +1,27 @@
+{
+  "name": "kbot",
+  "version": "0.0.1",
+  "description": "A bot for the ITAS Discord channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkmaibach/kbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "itas"
+  ],
+  "author": "BKMaibach",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/bkmaibach/kbot/issues"
+  },
+  "homepage": "https://github.com/bkmaibach/kbot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
